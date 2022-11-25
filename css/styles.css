@@ -1,6 +1,14 @@
-@import url();
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
 @import "reset.css";
 @import "styles.css";
 
 /*  components   */
+@import "components/type-boxes.css";
+@import "components/main-type-boxes.css";
 
+/*   screens   */
+
+
+body {
+    background-color: #F2F2F2;
+}
