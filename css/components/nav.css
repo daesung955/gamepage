@@ -1,0 +1,53 @@
+/* 네비 형태  */
+
+.nav {
+    bottom: 0px;
+    width: 100%;
+    height: 60px;
+    background-color: white;
+    position: fixed;
+    border: 2px solid #F3F3F3;
+}
+
+/*  네비 내부형태   */
+
+.nav-box {
+    width: 768px;
+    height: 163px;
+    margin: auto;
+    background-color: white;
+}
+
+/*  네브 아이콘 정렬 박스   */
+
+.nav-box-icon-boxes {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 5px;
+    margin-left: 15px;
+}
+
+
+/*  아이콘 텍스트 중앙정렬 박스  */
+
+.nav-box-icon-box {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: auto;
+}
+
+/*  아이콘  */
+
+.nav-box-icon-box i {
+    margin-bottom: 7px;
+    font-size: 25px;
+}
+
+/*  아이콘 텍스트  */
+
+.nav-box-icon-box h4 {
+    font-size: 14px;
+}
+
