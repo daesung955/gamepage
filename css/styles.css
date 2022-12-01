@@ -8,7 +8,15 @@
 @import "components/nav.css";
 
 /*   screens   */
-
+@import "screens/index.css";
+@import "screens/horror.css";
+@import "screens/action.css";
+@import "screens/fight.css";
+@import "screens/indie.css";
+@import "screens/rpg.css";
+@import "screens/shooting.css";
+@import "screens/sports.css";
+@import "screens/racing.css";
 
 body {
     background-color: #F2F2F2;

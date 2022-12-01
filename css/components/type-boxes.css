@@ -49,6 +49,7 @@
     margin-bottom: 25px;
 }
 
+
 /*   header category    */  
 
 .type-box-name-category {
@@ -57,6 +58,12 @@
     display: flex;
 }
 
+.type-box-name-category {
+    width: 55px;
+    height: 40px;
+    background-color: #FBFBFB;
+    border: none;
+}
 
 .type-box-name-category li {
     margin-right: 10px;
@@ -66,19 +73,10 @@
     justify-content: center;
 }
 
-
-.type-box-name-category-box-select {
-    width: 55px;
-    height: 40px;
-    background-color: #0152CC;
-    border: none;
-}
-
 .type-box-name-category-box-select-text {
     font-size: 14px;
     color: white;
 }
-
 
 .type-box-name-category-box {
     width: 55px;
